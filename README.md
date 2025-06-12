@@ -11,7 +11,9 @@ Fonctionnalités
 
 Installation
 
-1. Clonez le projet :
+ Clonez le projet :
    ```bash
    git clone https://github.com/NyAina-Nadia/projetM1.git
    cd projetM1
+
+Démonstration vidéo: (./demo/demo.mp4)
